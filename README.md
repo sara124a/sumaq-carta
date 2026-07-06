@@ -1,2 +1,0 @@
-# sumaq-carta
-Carta
