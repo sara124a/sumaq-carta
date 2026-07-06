@@ -27,7 +27,7 @@
    ============================================================ */
 
 const restaurantInfo = {
-  nombre: "Huari",
+  nombre: "Sumaq",
   tagline: "Alta cocina bajo el cielo más despejado del mundo",
   ubicacion: "Vallenar, Valle del Huasco, Atacama",
   horario: "lun–Sab : 19:00–23:30 Dom 13:00-16:00",
